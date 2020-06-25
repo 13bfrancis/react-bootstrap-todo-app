@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "description": "get milk",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "description": "go to the store",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "description": "pick up the kids",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "description": "do laundary",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "description": "get milk",
+    "completed": false
+  }
+]
